@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "design_headers.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
